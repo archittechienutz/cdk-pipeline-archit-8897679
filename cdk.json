@@ -1,0 +1,4 @@
+{
+  "app": "npx ts-node --prefer-ts-exts bin/cdk-pipeline-archit-8897679.ts",
+  "requireApproval": "never"
+}
