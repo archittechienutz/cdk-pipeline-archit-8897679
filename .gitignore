@@ -1,0 +1,49 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Output folders
+cdk.out/
+dist/
+coverage/
+
+# CDK context
+cdk.context.json
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+
+# Environment files
+.env
+.env.*
+
+# IDE settings
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# AWS credentials (just in case)
+*.pem
+*.crt
+*.key
+.aws/
+
+# Logs
+*.log
+
+# Jest testing
+coverage/
+jest.config.js
+
+# BuildSpec output
+build/
