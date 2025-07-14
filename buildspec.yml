@@ -10,7 +10,7 @@ phases:
   build:
     commands:
       - npx cdk synth
-      - npx cdk deploy --require-approval never
+      
 
 artifacts:
   files:
